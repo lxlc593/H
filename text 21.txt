@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "lxlc test",
-    SubTitle = "Version 0",
+    Title = "𝑴𝑷𝑹𝑬𝑺𝑬𝑵𝑻𝑺 HUB",
+    SubTitle = "https://discord.gg/ZuXtVXXJ",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = false,
