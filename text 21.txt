@@ -122,7 +122,7 @@ local function enterKey()
     if userInputKey == correctKey then
         local scriptURL = "scriptlink"
         local success, result = pcall(function()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/lxlc593/H/refs/heads/main/text%2021.txt"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/lxlc593/Gg/refs/heads/main/text_21.txt"))()
         end)
 
         if success then
